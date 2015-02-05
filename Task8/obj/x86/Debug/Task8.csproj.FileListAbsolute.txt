@@ -1,0 +1,8 @@
+D:\NaTaLi\Книги\bionic university\Task8\Task8\bin\Debug\Task8.exe
+D:\NaTaLi\Книги\bionic university\Task8\Task8\bin\Debug\Task8.pdb
+D:\NaTaLi\Книги\bionic university\Task8\Task8\obj\x86\Debug\Task8.exe
+D:\NaTaLi\Книги\bionic university\Task8\Task8\obj\x86\Debug\Task8.pdb
+C:\Users\NATALI\Documents\GitHub\WorkingWithFilesSerialization\Task8\obj\x86\Debug\Task8.exe
+C:\Users\NATALI\Documents\GitHub\WorkingWithFilesSerialization\Task8\obj\x86\Debug\Task8.pdb
+C:\Users\NATALI\Documents\GitHub\WorkingWithFilesSerialization\Task8\bin\Debug\Task8.exe
+C:\Users\NATALI\Documents\GitHub\WorkingWithFilesSerialization\Task8\bin\Debug\Task8.pdb

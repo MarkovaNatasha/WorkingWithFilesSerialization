@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Name>olga</Name>
+    <Surname>popova</Surname>
+    <DayBirth>1991-11-24T00:00:00</DayBirth>
+    <Phone>+380 98 345 35 64 78</Phone>
+    <Email>popova@gmail.com</Email>
+    <Passport>AT 342546</Passport>
+    <CardNumber>2345353546345634</CardNumber>
+    <CardDate>2011-06-23T11:23:45</CardDate>
+  </Customer>
+  <Customer>
+    <Name>ivan</Name>
+    <Surname>Stepanov</Surname>
+    <DayBirth>1989-01-23T00:00:00</DayBirth>
+    <Phone>+380 98 456 78 347</Phone>
+    <Email>i.stepanov@i.ua</Email>
+    <Passport>TT 3445563</Passport>
+    <CardNumber>4567345624576535</CardNumber>
+    <CardDate>2000-01-12T14:11:07</CardDate>
+  </Customer>
+  <Customer>
+    <Name>Pavlo</Name>
+    <Surname>Kotov</Surname>
+    <DayBirth>1978-04-13T00:00:00</DayBirth>
+    <Phone>+380 88 342 57</Phone>
+    <Email>OKotov1201@info.com</Email>
+    <Passport>GH 4567876</Passport>
+    <CardNumber>8976354687563546</CardNumber>
+    <CardDate>2012-07-11T10:10:34</CardDate>
+  </Customer>
+  <Customer>
+    <Name>Maria</Name>
+    <Surname>leonova</Surname>
+    <DayBirth>1990-08-07T00:00:00</DayBirth>
+    <Phone>+380 50 345 26 78</Phone>
+    <Email>m.leon1990@gmail.com</Email>
+    <Passport>HJ 4567</Passport>
+    <CardNumber>7675345634564656</CardNumber>
+    <CardDate>2013-03-23T11:34:44</CardDate>
+  </Customer>
+  <Customer>
+    <Name>Stepan</Name>
+    <Surname>Luk</Surname>
+    <DayBirth>1988-03-05T00:00:00</DayBirth>
+    <Phone>+380 66 343 54 56</Phone>
+    <Email>jjuukk@mail.ru</Email>
+    <Passport>JK 4567765</Passport>
+    <CardNumber>4563564575673456</CardNumber>
+    <CardDate>2011-06-11T12:13:13</CardDate>
+  </Customer>
+</ArrayOfCustomer>
